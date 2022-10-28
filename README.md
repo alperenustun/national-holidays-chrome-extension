@@ -1,4 +1,4 @@
 # Worldwide National Holidays Chrome Extension
 
-![nationalholidays](https://user-images.githubusercontent.com/58483864/198423801-9f1cded6-7720-4400-b88a-d39fbb71ab0b.png)
-![nationalholidays2](https://user-images.githubusercontent.com/58483864/198424069-91954fbe-b2b3-4359-b399-2ab7bea06f17.png)
+![nationalholidays](https://user-images.githubusercontent.com/58483864/198594933-664eb3e2-8c83-45aa-9410-74dc65d87722.png)
+![nationalholidays2](https://user-images.githubusercontent.com/58483864/198595120-028408d8-284e-458c-905d-d1b15115a07a.png)
