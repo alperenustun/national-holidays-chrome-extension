@@ -4,6 +4,11 @@
   "description": "National holidays of the countries",
   "manifest_version": 3,
   "author": "Alperen Üstün",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon32.png",
+    "128": "icon192.png"
+  },
   "action": {
     "default_popup": "index.html",
     "default_title": "National Holidays"
