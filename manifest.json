@@ -1,0 +1,11 @@
+{
+    "name": "National Holidays",
+    "version": "1.0.0",
+    "description": "National holidays of the countries",
+    "manifest_version": 3,
+    "author": "Alperen Üstün",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "National Holidays"
+    }
+}
